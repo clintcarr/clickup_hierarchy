@@ -2,18 +2,17 @@
 Simple script to print the Clickup hierarchy to screen
 
 Example output:
-
 Clickup (space)
 Supermetrics (space)
 Presales (space)
-      Opportunities (folder)
-      Qualification (list)
-          Current processes (task)
-          Ascertain budget (task)
-          Understand timing (task)
-          Discover pain points (task)
-      Demonstration (list)
-          Execute demonstration (task)
+        Opportunities (folder)
+                Qualification (list)
+                        Current processes (task)
+                        Ascertain budget (task)
+                        Understand timing (task)
+                        Discover pain points (task)
+                Demonstration (list)
+                        Execute demonstration (task)
                         Schedule demonstration (task)
                         Check with prospect to ensure we understand the requirements (task)
                         Have call with sales to walk through process (task)

@@ -1,5 +1,5 @@
 # clickup_hierarchy
-Simple script to print the Clickup hierarchy to screen
+## Simple script to print the Clickup hierarchy to screen
 
 Example output:
 Clickup (space)
